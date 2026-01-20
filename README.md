@@ -1,5 +1,7 @@
 # ISMS-Core-Implementation
 
+**POZNÁMKA:** Tento repozitář obsahuje **anonymizovanou a modelovou dokumentaci**. Veškerá data, názvy aktiv a scénáře rizik jsou fiktivní a slouží výhradně pro demonstrační účely a jako šablona pro implementaci GRC procesů.
+
 Komplexní rámec pro řízení informační bezpečnosti (ISMS) v prostředí telemetrických IoT/OT řešení.
 
 Tento repozitář představuje praktickou implementaci principů Governance, Risk & Compliance (GRC) navrženou specificky pro monitoring vozového parku a kritickou infrastrukturu. Projekt je plně v souladu s požadavky norem ISO 27001:2022 a evropské směrnice NIS2.
