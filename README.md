@@ -13,10 +13,10 @@ Risk Register: Identifikace hrozeb, hodnocení dopadů a katalog nápravných op
 
 ### Bezpečnostní politiky (ISMS)
 Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registru:
-* [**Politika ISMS**](Policies/ISMS-Policy.md) – Hlavní nadřazený dokument řízení bezpečnosti.
-* [**Řízení přístupu**](Policies/Access-Control.md) – Pravidla pro MFA, hesla a RBAC (řeší RISK-USR-01).
-* [**Správa zranitelností**](Policies/Vulnerability-Management.md) – Cyklus skenování a SLA pro opravy (řeší RISK-VULN-01).
-* [**Řešení incidentů**](Policies/Incident-Response.md) – Postup hlášení a eskalace (6 kroků).
+* [**Politika ISMS**](Policies/ISMS-Policy.pdf) – Hlavní nadřazený dokument řízení bezpečnosti.
+* [**Řízení přístupu**](Policies/Access-Control.pdf) – Pravidla pro MFA, hesla a RBAC (řeší RISK-USR-01).
+* [**Správa zranitelností**](Policies/Vulnerability-Management.pdf) – Cyklus skenování a SLA pro opravy (řeší RISK-VULN-01).
+* [**Řešení incidentů**](Policies/Incident-Response.pdf) – Postup hlášení a eskalace (6 kroků).
 
 ## Použití
 1.  **Audit aktiv:** Identifikujte kritická aktiva v `Asset Register`.
