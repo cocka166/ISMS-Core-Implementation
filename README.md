@@ -2,16 +2,16 @@
 
 Praktický Asset a Risk Register pro telemetrická IoT/OT řešení. Tento repozitář slouží jako ukázka implementace principů Governance, Risk & Compliance (GRC) podle ISO 27001 a NIS2.
 
-## 📂 Obsah repozitáře
+## Obsah repozitáře
 
-### 📊 Registry (Excel)
+### Registry (Excel)
 * **Asset-Risk Register CORE.xlsx** – Komplexní matice obsahující:
 
 Asset Register: Seznam aktiv, jejich vlastníci, síťové parametry a kritičnost (CIA).
 
 Risk Register: Identifikace hrozeb, hodnocení dopadů a katalog nápravných opatření (mitigace).
 
-### 📜 Bezpečnostní politiky (ISMS)
+### Bezpečnostní politiky (ISMS)
 Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registru:
 * [**Politika ISMS**](Policies/ISMS-Policy.md) – Hlavní nadřazený dokument řízení bezpečnosti.
 * [**Řízení přístupu**](Policies/Access-Control.md) – Pravidla pro MFA, hesla a RBAC (řeší RISK-USR-01).
