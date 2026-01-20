@@ -18,7 +18,7 @@ Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registr
 * [**Správa zranitelností**](Policies/Vulnerability-Management.md) – Cyklus skenování a SLA pro opravy (řeší RISK-VULN-01).
 * [**Řešení incidentů**](Policies/Incident-Response.md) – Postup hlášení a eskalace (6 kroků).
 
-## 🛠 Použití
+## Použití
 1.  **Audit aktiv:** Identifikujte kritická aktiva v `Asset Register`.
 2.  **Mitigace rizik:** Aplikujte opatření definovaná v `Policies/` na konkrétní rizika.
 3.  **SLA Compliance:** Sledujte lhůty pro opravy zranitelností podle technické kritičnosti.
