@@ -26,7 +26,9 @@ Asset Register: Seznam aktiv, jejich vlastníci, síťové parametry a kritično
 
 Risk Register: Identifikace hrozeb, hodnocení dopadů a katalog nápravných opatření (mitigace).
 
-### Bezpečnostní politiky (ISMS)
+**Statement of Applicability (SoA):** Klíčový dokument pro audit, který mapuje opatření normy ISO 27001:2022 na konkrétní politiky v tomto repozitáři a zdůvodňuje jejich (ne)použití.
+
+### Bezpečnostní politiky, procesy a směrnice (ISMS)
 Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registru:
 
 | Dokument | Popis | Cílová oblast |
