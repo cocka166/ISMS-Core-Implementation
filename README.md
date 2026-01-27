@@ -50,7 +50,7 @@ Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registr
 | [**Disaster Recovery Plan (DRP)**](Policies/DRP.pdf) | Technické postupy obnovy IT infrastruktury po havárii. | Obnova systémů |
 | [**Správa klíčů (Key Management)**](Policies/Key-Management.pdf) | Životní cyklus šifrovacích klíčů a certifikátů (HSM, rotace). | Kryptografie |
 | [**Bezpečné CI/CD (DevSecOps)**](Policies/Secure-CI-CD.pdf) | Integrace bezpečnosti do vývojového cyklu a nasazování kódu. | Bezpečnost vývoje |
-| [**Threat Intelligence Process**](Policies/Threat-Intelligence.pdf) | Metodika sběru a analýzy informací o aktuálních kyberhrozbách. | Proaktivní obrana |
+| [**Threat Intelligence Process**](Policies/Threat-Intelligence-Process.pdf) | Metodika sběru a analýzy informací o aktuálních kyberhrozbách. | Proaktivní obrana |
 
 ---
 
