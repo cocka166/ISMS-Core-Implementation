@@ -56,11 +56,13 @@ Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registr
 
 ---
 
-## Použití
+## Jak s repozitářem pracovat
 
-1.  **Audit aktiv:** Identifikujte kritická aktiva v listu `Asset Register`.
-2.  **Mitigace rizik:** Aplikujte opatření definovaná v `Policies/` na konkrétní rizika v registru.
-3.  **SLA Compliance:** Sledujte lhůty pro opravy zranitelností podle technické kritičnosti aktiva.
+1.  **Audit aktiv:** Identifikujte kritická aktiva v listu `Asset Register`. Určete jejich vlastníky a ohodnoťte je z pohledu důvěrnosti, integrity a dostupnosti (CIA).
+2.  **Analýza rizik:** V listu `Risk Register` vyhodnoťte hrozby pro tato aktiva. Propojte zjištěná rizika s konkrétními vlastníky a definujte plány na jejich zvládnutí (Risk Treatment).
+3.  **Verifikace přes SoA:** V listu `Statement of Applicability (SoA)` ověřte, zda jsou implementována všechna relevantní opatření přílohy A normy ISO 27001:2022. Každé aplikované opatření musí odkazovat na příslušnou politiku nebo technickou kontrolu.
+4.  **Mitigace rizik:** Aplikujte procesní opatření definovaná v adresáři `Policies/` na konkrétní rizika potvrzená v SoA.
+5.  **SLA Compliance:** Sledujte lhůty pro opravy zranitelností a revize dokumentace podle technické kritičnosti a požadavků na shodu (compliance).
 
 ---
 
