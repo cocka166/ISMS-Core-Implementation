@@ -41,6 +41,7 @@ Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registr
 | [**Řízení změn**](Policies/Change-Management.pdf) | Proces schvalování a testování změn v infrastruktuře. | Provozní stabilita |
 | [**Likvidace médií**](Policies/Media-Disposal.pdf) | Postupy pro bezpečné ničení datových nosičů. | Fyzická bezpečnost |
 | [**Ochrana soukromí (Privacy)**](Policies/Privacy.pdf) | Zpracování osobních údajů v souladu s GDPR. | Compliance |
+| [**Kryptografická politika**](Policies/Cryptographic-Policy.pdf) | Pravidla pro šifrování dat (at rest/in transit) a správu klíčů. | Data Protection |
 
 ---
 
