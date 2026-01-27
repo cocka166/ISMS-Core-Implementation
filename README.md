@@ -46,6 +46,11 @@ Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registr
 | [**Práce na dálku (Home Office)**](Policies/Home-Office.pdf) | Bezpečnostní standardy pro práci mimo zabezpečené prostory firmy. | Vzdálený přístup |
 | [**Mobilní zařízení a koncové body**](Policies/Mobile-Device-Endpoint.pdf) | Zabezpečení mobilů, notebooků a BYOD (řeší RISK-MDM-01). | Endpoint Security |
 | [**Bezpečnost provozu (Ops-Sec)**](Policies/Operations-Security.pdf) | Postupy pro bezpečný provoz IT systémů a logování aktivit. | Provozní bezpečnost |
+| [**Business Continuity Plan (BCP)**](Policies/BCP.pdf) | Strategie zachování kritických funkcí firmy při rozsáhlém výpadku. | Kontinuita provozu |
+| [**Disaster Recovery Plan (DRP)**](Policies/DRP.pdf) | Technické postupy obnovy IT infrastruktury po havárii. | Obnova systémů |
+| [**Správa klíčů (Key Management)**](Policies/Key-Management.pdf) | Životní cyklus šifrovacích klíčů a certifikátů (HSM, rotace). | Kryptografie |
+| [**Bezpečné CI/CD (DevSecOps)**](Policies/Secure-CI-CD.pdf) | Integrace bezpečnosti do vývojového cyklu a nasazování kódu. | Bezpečnost vývoje |
+| [**Threat Intelligence Process**](Policies/Threat-Intelligence.pdf) | Metodika sběru a analýzy informací o aktuálních kyberhrozbách. | Proaktivní obrana |
 
 ---
 
