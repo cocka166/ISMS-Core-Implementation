@@ -42,6 +42,10 @@ Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registr
 | [**Likvidace médií**](Policies/Media-Disposal.pdf) | Postupy pro bezpečné ničení datových nosičů. | Fyzická bezpečnost |
 | [**Ochrana soukromí (Privacy)**](Policies/Privacy.pdf) | Zpracování osobních údajů v souladu s GDPR. | Compliance |
 | [**Kryptografická politika**](Policies/Cryptographic-Policy.pdf) | Pravidla pro šifrování dat (at rest/in transit) a správu klíčů. | Data Protection |
+| [**Clear Desk & Clear Screen**](Policies/Clear-Desk-Clear-Screen.pdf) | Pravidla pro čistý stůl a zamykání obrazovek na pracovišti. | Fyzická bezpečnost |
+| [**Práce na dálku (Home Office)**](Policies/Home-Office.pdf) | Bezpečnostní standardy pro práci mimo zabezpečené prostory firmy. | Vzdálený přístup |
+| [**Mobilní zařízení a koncové body**](Policies/Mobile-Device-Endpoint.pdf) | Zabezpečení mobilů, notebooků a BYOD (řeší RISK-MDM-01). | Endpoint Security |
+| [**Bezpečnost provozu (Ops-Sec)**](Policies/Operations-Security.pdf) | Postupy pro bezpečný provoz IT systémů a logování aktivit. | Provozní bezpečnost |
 
 ---
 
