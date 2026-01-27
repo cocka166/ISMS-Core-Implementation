@@ -35,12 +35,12 @@ Tyto dokumenty definují procesní rámec pro ochranu aktiv uvedených v registr
 | [**Řízení přístupu**](Policies/Access-Control.pdf) | Pravidla pro MFA, hesla a RBAC. | Identita (RISK-USR-01) |
 | [**Správa zranitelností**](Policies/Vulnerability-Management.pdf) | Cyklus skenování a SLA pro opravy. | Technický dluh (RISK-VULN-01) |
 | [**Řešení incidentů**](Policies/Incident-Response.pdf) | Postup hlášení a eskalace (6 kroků). | Reakce na hrozby |
-| [**Zásady přijatelného užití (AUP)**](Policies/Acceptable Use Policy – AUP.pdf) | Pravidla bezpečného chování pro zaměstnance. | Lidský faktor |
-| [**Anti-Malware Politika**](Policies/Anti-Malware Policy.pdf) | Ochrana před škodlivým kódem a ransomwarem. | Endpoint Security |
-| [**Zálohování a obnova**](Policies/Backup & Recovery Policy.pdf) | Strategie kontinuity a obnovy dat. | Business Continuity |
-| [**Řízení změn**](Policies/Change Management Policy.pdf) | Proces schvalování a testování změn v infrastruktuře. | Provozní stabilita |
-| [**Likvidace médií**](Policies/Media Disposal Policy.pdf) | Postupy pro bezpečné ničení datových nosičů. | Fyzická bezpečnost |
-| [**Ochrana soukromí (Privacy)**](Policies/Privacy Policy.pdf) | Zpracování osobních údajů v souladu s GDPR. | Compliance |
+| [**Zásady přijatelného užití (AUP)**](Policies/Acceptable-Use.pdf) | Pravidla bezpečného chování pro zaměstnance. | Lidský faktor |
+| [**Anti-Malware Politika**](Policies/Anti-Malware.pdf) | Ochrana před škodlivým kódem a ransomwarem. | Endpoint Security |
+| [**Zálohování a obnova**](Policies/Backup-Recovery.pdf) | Strategie kontinuity a obnovy dat. | Business Continuity |
+| [**Řízení změn**](Policies/Change-Management.pdf) | Proces schvalování a testování změn v infrastruktuře. | Provozní stabilita |
+| [**Likvidace médií**](Policies/Media-Disposal.pdf) | Postupy pro bezpečné ničení datových nosičů. | Fyzická bezpečnost |
+| [**Ochrana soukromí (Privacy)**](Policies/Privacy.pdf) | Zpracování osobních údajů v souladu s GDPR. | Compliance |
 
 ---
 
